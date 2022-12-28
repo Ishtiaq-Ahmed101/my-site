@@ -1,0 +1,14 @@
+body{
+    background-color: lightyellow;
+}
+.appname{
+    color: white;
+}
+.nav-item{
+    margin-right: 2rem;
+    text-decoration: none;
+}
+.images-all{
+    height: 5rem;
+    width: 7rem;
+}
